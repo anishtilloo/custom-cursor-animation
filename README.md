@@ -1,1 +1,1 @@
-### Custom cursor animation using gsap
+# Custom cursor animation using gsap
